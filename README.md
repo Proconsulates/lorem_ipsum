@@ -2,5 +2,5 @@
 lorem ipsum generator
 
 ## Contributors
-SoftwareFuze
+SoftwareFuze <br>
 Proconsulates
